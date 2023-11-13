@@ -29,16 +29,15 @@ public class Main {
 }
 
 
-TELA
+/*TELA
 2.00
 100.64
 150.00
  Area 1 é igual: 12.5664
  Area 2 é igual: 31819.3103
- Area 3 é igual: 70685.7750
+ Area 3 é igual: 70685.7750*/
 
 _________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -68,12 +67,12 @@ public class Main {
 }
 
 
-TELA
+/*TELA
 5
 6
 -7
 8
-DIFERENÇA = 86
+DIFERENÇA = 86*/
 ____________________________________________________________________________
 import java.util.Locale;
 import java.util.Scanner;
@@ -102,15 +101,13 @@ public class Main {
 	}
 }
 
-TELA
+/*TELA
 25
 100
 5.50
 NUMERO = 25.0
-SALARIO = R$550.00
+SALARIO = R$550.00*/
 ________________________________________________________________________________
-
-
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -148,10 +145,10 @@ TELA
 5.10
 VALOR A PAGAR = R$ 15.50
 ______________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -184,7 +181,7 @@ public class Main {
 	}
 }
 
-TELA
+/*TELA
 3.0
 4.0
 5.2
@@ -192,8 +189,7 @@ A area do Triangulo é: 7.800
  A area do Circulo é: 84.949
  A area Trapézio é: 18.200
  A area do Quadrado é: 16.000
- A area do Retangulo é: 12.000
-
+ A area do Retangulo é: 12.000*/
 ______________________________________________________________________________________
 import java.util.Locale;
 import java.util.Scanner;
@@ -238,7 +234,6 @@ Locale.setDefault(Locale.US);
 	}
 }
 _____________________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -268,11 +263,10 @@ public class Main {
 	}
 }
 
-Console:
+/*Console:
  x1 é igual a:-1.0
- x2 é igual a:-1.0
+ x2 é igual a:-1.0*/
 ____________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -303,17 +297,15 @@ sc.close();
 
 	}
 		}
-	
+/*CONSOLE	
 113
 Valor a pagar: R$ 76.00
  
 Observação: 
 No exemplo usado: conta = conta + ( minutos - 100 ) * 2.0;
-A atribuição é colocada conta += ( minutos - 100 ) * 2.0;
+A atribuição é colocada conta += ( minutos - 100 ) * 2.0;*/*
 _____________________________________________________________________________
-EXEMPLO IF/ELSE E SWITCH/CASE
-
-
+//EXEMPLO IF/ELSE E SWITCH/CASE
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -355,11 +347,10 @@ public class Main {
 	}
 }
 
+/*CONSOLE
 7
- Dia da semana  sábado 
-
-
-
+ Dia da semana  sábado*/ 
+_________________________________________________________________________________________________________
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -410,10 +401,8 @@ public class Main {
 	}
 }
 ____________________________________________________________________________________
-EXPRESSÃO CONDICIONAL TERNÁRIA
-
-IF / ELSE
-
+//EXPRESSÃO CONDICIONAL TERNÁRIA
+//IF / ELSE
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -441,10 +430,7 @@ public class Main {
 
 	}
 }
-
-TERNÁRIA
-
-
+____________________________________________________________________________________________________________
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -469,12 +455,7 @@ public class Main {
 
 	}
 }
-
-
-
-
 _____________________________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -507,10 +488,10 @@ public class Main {
 	}
 
 
- CONSOLE
+ /*CONSOLE
  Que horas são? 
  10
- Bom dia 
+ Bom dia*/ 
 _____________________________________________________________________________________
 public class Main {
 
@@ -545,12 +526,11 @@ sc.close();
 		}	
 	}
 
-CONSOLE:
+/*CONSOLE:
 0
 0
-O jogo durou 24 horas 
+O jogo durou 24 horas*/ 
 ___________________________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -575,13 +555,10 @@ public class Main {
 sc.close();
 		}	
 	}
-
-
-CONSOLE
+/*CONSOLE
 27
-IMPAR 
+IMPAR*/ 
 ___________________________________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -608,11 +585,11 @@ sc.close();
 		}	
 	}
 
+/*CONSOLE
 6
 25
-NÃO SÃO MULTIPLOS 
+NÃO SÃO MULTIPLOS*/ 
 _____________________________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -663,7 +640,7 @@ public class Main {
 	}	
 }
 
-CONSOLE		
+/*CONSOLE		
 Digite o código do produto
  1 - CACHORRO QUENTE 
  2 - X SALADA 
@@ -673,9 +650,8 @@ Digite o código do produto
 2
  Digite a quantidade 
 3
- Total a pagar R$ 13.50
+ Total a pagar R$ 13.50*/
 _____________________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -707,16 +683,13 @@ public class Main {
 		System.out.println(" Fora do Intervalo ");
 	}
 	sc.close();
-}
-}
-	
 
-	
-CONSOLE
+	}
+}
+/*CONSOLE
 -25.01
- Fora do Intervalo 
+ Fora do Intervalo*/ 
 _________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -753,18 +726,16 @@ public class Main {
 							System.out.println(" Origem ");
 						}
 					
-	
-	sc.close();
+		sc.close();
 		
 		}
 	}
 
-CONSOLE
+/*CONSOLE
 0
 0
-Origem 
+Origem*/ 
 __________________________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -803,13 +774,10 @@ public class Main {
 
 	}
 }
-	
-
-CONSOLE	
+/*CONSOLE	
 4520.00
-Valor a cobrar R$ 355.60
+Valor a cobrar R$ 355.60*/
 ___________________________________________________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -837,14 +805,10 @@ public class Main {
 
 	}
 }
-
-CONSOLE
-3-10
-
-____________________________________________________________________________________________________________________
-*******TESTE DE MESA*****************
-
-
+/*CONSOLE
+3-10*/
+___________________________________________________________________________________________________________________
+//*******TESTE DE MESA*****************
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -869,14 +833,12 @@ public class Main {
 
 	}
 }
-
-CONSOLE
+/*CONSOLE
 5
 4
-3
+3*/
 
-
-
+__________________________________________________________________________________________
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -902,15 +864,13 @@ public class Main {
 	}
 }
 
-
-CONSOLE
+/*CONSOLE
 2
 4
 8
 16
-32
-
-
+32*/
+____________________________________________________________________________________________
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -935,10 +895,7 @@ public class Main {
 	}
 }
 
-
-
-
-
+__________________________________________________________________________________________
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -964,219 +921,207 @@ public class Main {
 	}
 }
 
-CONSOLE
+/*CONSOLE
 0
 3
 6
 9
 12
-Fim 
+Fim*/ 
 
-
-
-import java.util.Locale;
-import java.util.Scanner;
-
-
-public class Main {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		Locale.setDefault(Locale.US);
-		Scanner sc = new Scanner(System.in);
-
-		int x = 4;
-		int y = 0;
-		int i = 0;
-			while (x > i) {
-				i += 1;
-				y += 1;
-				System.out.print(i + ",");
-				System.out.println(y);
-			}
-		
-			
-			
-			
-		sc.close();
-
-	}
-}
-
-CONSOLE:
-1,1
-2,2
-3,3
-4,4
-________________________________________________________________________________________
-
-
-import java.util.Locale;
-import java.util.Scanner;
-
-
-public class Main {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		Locale.setDefault(Locale.US);
-		Scanner sc = new Scanner(System.in);
-
-		int x = 5;
-	   	int y = 0;		
-		while (x > 2) {
-			System.out.println(x);
-					y += x;
-					x -= 1;
-		}			
-		
-		sc.close();
-
-	}
-}
-
-CONSOLE
-5
-4
-3
-
-
-
-import java.util.Locale;
-import java.util.Scanner;
-
-
-public class Main {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		Locale.setDefault(Locale.US);
-		Scanner sc = new Scanner(System.in);
-
-		int x = 2;
-	   	int y = 0;		
-		while (x < 60) {
-			System.out.println(x);
-					y += 10;
-					x *= 2;
-		}			
-		
-		sc.close();
-
-	}
-}
-
-
-CONSOLE
-2
-4
-8
-16
-32
-
-
-import java.util.Locale;
-import java.util.Scanner;
-
-
-public class Main {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		Locale.setDefault(Locale.US);
-		Scanner sc = new Scanner(System.in);
-
-		int x = 100;
-	   	int y = 100;		
-		while (x == y) {
-			System.out.println("Olha");
-					x = (int) Math.sqrt(y);
-		}			
-		
-		sc.close();
-
-	}
-}
-
-
-
-
-
-import java.util.Locale;
-import java.util.Scanner;
-
-
-public class Main {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		Locale.setDefault(Locale.US);
-		Scanner sc = new Scanner(System.in);
-
-		int x = 0;
-		while (x < 5) {
-			int y =  x * 3;
-			System.out.println(y);
-			x += 1;
-		}
-		System.out.println(" Fim ");
-		
-		sc.close();
-
-	}
-}
-
-CONSOLE
-0
-3
-6
-9
-12
-Fim 
-
-_____________________________________________________________________________________________________
-
-import java.util.Locale;
-import java.util.Scanner;
-
-
-public class Main {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		Locale.setDefault(Locale.US);
-		Scanner sc = new Scanner(System.in);
-
-		int x = 4;
-		int y = 0;
-		int i = 0;
-			while (x > i) {
-				i += 1;
-				y += 1;
-				System.out.print(i + ",");
-				System.out.println(y);
-			}
-		
-			
-			
-			
-		sc.close();
-
-	}
-}
-
-1,1
-2,2
-3,3
-4,4
 ______________________________________________________________________________________
+import java.util.Locale;
+import java.util.Scanner;
 
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+
+		int x = 4;
+		int y = 0;
+		int i = 0;
+			while (x > i) {
+				i += 1;
+				y += 1;
+				System.out.print(i + ",");
+				System.out.println(y);
+			}
+		
+			
+			
+			
+		sc.close();
+
+	}
+}
+
+/*CONSOLE:
+1,1
+2,2
+3,3
+4,4*/
+________________________________________________________________________________________
+import java.util.Locale;
+import java.util.Scanner;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+
+		int x = 5;
+	   	int y = 0;		
+		while (x > 2) {
+			System.out.println(x);
+					y += x;
+					x -= 1;
+		}			
+		
+		sc.close();
+
+	}
+}
+
+/*CONSOLE
+5
+4
+3*/
+_________________________________________________________________________________________________
+import java.util.Locale;
+import java.util.Scanner;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+
+		int x = 2;
+	   	int y = 0;		
+		while (x < 60) {
+			System.out.println(x);
+					y += 10;
+					x *= 2;
+		}			
+		
+		sc.close();
+
+	}
+}
+
+
+CONSOLE
+2
+4
+8
+16
+32
+
+
+import java.util.Locale;
+import java.util.Scanner;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+
+		int x = 100;
+	   	int y = 100;		
+		while (x == y) {
+			System.out.println("Olha");
+					x = (int) Math.sqrt(y);
+		}			
+		
+		sc.close();
+
+	}
+}
+
+_____________________________________________________________________________________
+import java.util.Locale;
+import java.util.Scanner;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+
+		int x = 0;
+		while (x < 5) {
+			int y =  x * 3;
+			System.out.println(y);
+			x += 1;
+		}
+		System.out.println(" Fim ");
+		
+		sc.close();
+
+	}
+}
+/*CONSOLE
+0
+3
+6
+9
+12
+Fim*/ 
+________________________________________________________________________________________________
+import java.util.Locale;
+import java.util.Scanner;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+
+		int x = 4;
+		int y = 0;
+		int i = 0;
+			while (x > i) {
+				i += 1;
+				y += 1;
+				System.out.print(i + ",");
+				System.out.println(y);
+			}
+		
+			
+			
+			
+		sc.close();
+
+	}
+}
+/*CONSOLE
+1,1
+2,2
+3,3
+4,4*/
+______________________________________________________________________________________
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -1228,7 +1173,7 @@ public class Main {
 	}
 }
  
- CONSOLE
+ /*CONSOLE
  Digite x= 2
  Digite y= 2
  PRIMEIRO 
@@ -1242,9 +1187,8 @@ public class Main {
  Digite y= 1
  SEGUNDO 
  Digite x= 0
- Digite y= 2
+ Digite y= 2*/
 ____________________________________________________________________________________________
-
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -1287,9 +1231,7 @@ public class Main {
 	}
 }
 
-
-CONSOLE
-
+/*CONSOLE
 1
 2
 3
@@ -1300,7 +1242,77 @@ CONSOLE
  Muito Obrigado 
  Alcool: 1
  Gasolina: 2
- Diesel: 1
+ Diesel: 1 */
+____________________________________________________________________________
+//DO WHILE
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+
+		char resposta = 'S';
+
+		do {
+			double celsius = 0;
+			System.out.println(" Digite a temperatura em Celsius ");
+			celsius = sc.nextInt();
+			double fahrenheit = 9 * celsius / 5 + 32;
+			System.out.println(" Equivalente em Fahrenheit: " + fahrenheit);
+			System.out.println(" Deseja Repetir S/N ");
+			resposta = sc.next().charAt(0);
+		} while (resposta == 'S');
+
+		sc.close();
+	}
+}
+
+/*CONSOLE
+ Digite a temperatura em Celsius 
+ 30
+ Equivalente em Fahrenheit: 86.0
+ Deseja Repetir S/N 
+ S
+ Digite a temperatura em Celsius 
+ 86
+ Equivalente em Fahrenheit: 186.8
+ Deseja Repetir S/N 
+ S
+ Digite a temperatura em Celsius*/
+
+_____________________________________________________________________________________________
+//BITWISE
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+
+	int n1 = 89;
+	int n2 = 60;
+	System.out.println(n1 | n2);
+	System.out.println(n1 & n2);
+	System.out.println(n1 ^ n2);
+		
+		
+		sc.close();
+	}
+}
+/*CONSOLE
+125
+24
+101*/
+_________________________________________________________________________________
 
 
 
