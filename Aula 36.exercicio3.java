@@ -1,4 +1,4 @@
-
+﻿
 import java.util.Locale;
 import java.util.Scanner;
 import java.util.Scanner;
@@ -11,19 +11,20 @@ public class Main {
 
 		Scanner sc = new Scanner(System.in);
 
-	int numero = sc.nextInt();
+	int A = sc.nextInt(); 
+	int B = sc.nextInt();
 		 
-	if (numero % 2 == 0) {
-		System.out.println(" PAR ");
+	if ( A % B == 0 || B % A == 0) {
+		System.out.println(" SÃO MULTIPLOS ");
 	}
-	else if (numero % 2 != 0) {
-		System.out.println(" IMPAR ");
+	else {
+		System.out.println(" NÃO SÃO MULTIPLOS ");
 	}
 				
 sc.close();
 		}	
 	}
 
-/*27
- IMPAR 
-*/
+6
+25
+NÃO SÃO MULTIPLOS 
