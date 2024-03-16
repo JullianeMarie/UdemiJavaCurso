@@ -31,4 +31,5 @@ public class Main {
 /*
  * 2.00 100.64 150.00 Area 1 é igual: 12.5664 Area 2 é igual: 31819.3103 Area 3
  * é igual: 70685.7750
+ 
  */
