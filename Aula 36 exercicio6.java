@@ -11,8 +11,8 @@ public class Main {
 
 		Scanner sc = new Scanner(System.in);
     
- double A = 0;
- A = sc.nextDouble();
+		double A = 0;
+		A = sc.nextDouble();
  
 	if (A >= 0 && A <= 25) {
 		System.out.println(" Intervalo(0,25) ");
@@ -29,12 +29,13 @@ public class Main {
 		if (A < 0 || A > 100) {
 		System.out.println(" Fora do Intervalo ");
 	}
+	
 	sc.close();
-}
+	
+	}
 }
 	
-
-	
-
+/*
 -25.01
  Fora do Intervalo 
+*/
