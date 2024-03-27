@@ -18,4 +18,3 @@ Este programa em Java permite ao usuário calcular o valor total a pagar por um 
 3. Digite a quantidade desejada do produto.
 4. O programa calculará e exibirá o valor total a pagar.
 
-## Exemplo de Uso
