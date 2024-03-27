@@ -1,6 +1,7 @@
 # Exemplos de Loops em Java
 
-Este repositório contém vários exemplos de programas em Java que demonstram o uso de loops em diferentes situações.
+Este repositório contém vários exemplos de programas em Java, 
+que demonstram o uso de loops em diferentes situações.
 
 ## Funcionalidades
 - Cada programa apresenta um exemplo específico de uso de loops em Java.
