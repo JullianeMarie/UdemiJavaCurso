@@ -1,6 +1,7 @@
 # Cálculo de Valores em Loop
 
-Este programa em Java demonstra um loop simples onde os valores de x e y são atualizados até que a condição seja atendida.
+Este programa em Java demonstra um loop simples onde os valores de x e y 
+são atualizados até que a condição seja atendida.
 
 ## Funcionalidades
 - Inicializa x como 0 e y como 4.
