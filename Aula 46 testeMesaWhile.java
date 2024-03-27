@@ -24,12 +24,13 @@ public class Main {
 	}
 }
 
-
+/*
 5
 4
 3
+*/
 
-
+____________________________________________________________________________________
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -57,13 +58,15 @@ public class Main {
 }
 
 
-
+/*
 2
 4
 8
 16
 32
+*/
 
+_______________________________________________________________________
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -90,7 +93,7 @@ public class Main {
 }
 
 
-
+___________________________________________________________________
 
 
 import java.util.Locale;
@@ -118,12 +121,14 @@ public class Main {
 	}
 }
 
+/*
 0
 3
 6
 9
 12
 Fim 
+*/
 
 
 
@@ -148,7 +153,6 @@ public class Main {
 				System.out.print(i + ",");
 				System.out.println(y);
 			}
-		
 			
 		sc.close();
 
