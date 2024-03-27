@@ -1,6 +1,8 @@
 # Classificação de Números em Intervalos
 
-Este programa em Java permite ao usuário classificar um número em um dos três intervalos possíveis: [0,25], (25,50] ou (75,100]. O programa também verifica se o número está fora do intervalo [0,100].
+Este programa em Java permite ao usuário classificar um número em um dos três intervalos possíveis: 
+[0,25], (25,50] ou (75,100]. 
+O programa também verifica se o número está fora do intervalo [0,100].
 
 ## Funcionalidades
 - Solicita ao usuário um número decimal.
