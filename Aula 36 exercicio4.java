@@ -25,9 +25,9 @@ public class Main {
 			System.out.println(" O jogo durou 24 horas ");
 	
 		
-	
-	
+
 sc.close();
+
 		}	
 	}
 
