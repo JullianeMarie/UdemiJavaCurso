@@ -1,6 +1,8 @@
 # Identificação de Quadrante no Plano Cartesiano
 
-Este programa em Java permite ao usuário identificar em qual quadrante do plano cartesiano se encontra um ponto representado pelas coordenadas (x, y). Além disso, o programa também identifica se o ponto está na origem.
+Este programa em Java permite ao usuário identificar em qual quadrante do plano cartesiano 
+se encontra um ponto representado pelas coordenadas (x, y). 
+Além disso, o programa também identifica se o ponto está na origem.
 
 ## Funcionalidades
 - Solicita ao usuário as coordenadas x e y de um ponto.
