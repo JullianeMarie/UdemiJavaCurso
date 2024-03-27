@@ -1,6 +1,7 @@
 # Cálculo de Imposto sobre Salário
 
-Este programa em Java calcula o valor do imposto a ser cobrado sobre um salário de acordo com faixas de renda estabelecidas.
+Este programa em Java calcula o valor do imposto a ser cobrado sobre um salário 
+de acordo com faixas de renda estabelecidas.
 
 ## Funcionalidades
 - Solicita ao usuário o valor do salário.
