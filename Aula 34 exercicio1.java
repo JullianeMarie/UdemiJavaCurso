@@ -27,7 +27,6 @@ public class Main {
 		sc.close();
 	}
 }
-
 /*
  * CONSOLE 
  * Que horas são? 
