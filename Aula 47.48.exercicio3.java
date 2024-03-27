@@ -16,7 +16,6 @@ public class Main {
 
 		int Codigo = sc.nextInt();
 
-		
 		while (Codigo != 4) {
 			if (Codigo == 1) {
 				alcool += 1;
@@ -40,7 +39,6 @@ public class Main {
 	sc.close();
 	}
 }
-
 
 /*
 1
