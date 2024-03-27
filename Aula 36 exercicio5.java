@@ -21,7 +21,6 @@ public class Main {
 	    System.out.println(" 4 - TORRADA SIMPLES ");
 	    System.out.println(" 5 - REFRIGERANTE ");
 	    
-	    
 	    codigo = sc.nextInt();
 	    
 	    System.out.println(" Digite a quantidade ");
