@@ -17,7 +17,6 @@ public class Main {
 				
 		System.out.printf(" O valor do desconto R$ %.2f%n ", desconto );
 
-
 		sc.close();
 
 	}
