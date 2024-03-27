@@ -30,5 +30,4 @@ sc.close();
 6
 25
 NÃO SÃO MULTIPLOS 
-
 */
