@@ -22,6 +22,8 @@ public class Main {
 			resposta = sc.next().charAt(0);
 		} while (resposta == 'S');
 
+		
+
 		sc.close();
 	}
 }
