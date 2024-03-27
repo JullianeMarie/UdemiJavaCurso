@@ -23,7 +23,6 @@ public class Main {
 
 	}
 }
-
 /*
  * 100 
  * 5.50 
