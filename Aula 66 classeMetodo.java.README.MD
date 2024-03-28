@@ -18,7 +18,6 @@ Funcionalidade:
 - Compara as áreas dos triângulos X e Y.
 - Exibe a área de cada triângulo e identifica qual triângulo possui a área maior.
 
-
 Este README descreve as classes `Triângulo` e `Programa`, detalhando seus atributos, métodos e funcionalidades. Ele fornece um exemplo de uso do programa, demonstrando como inserir as dimensões dos triângulos, calcular suas áreas e comparar seus tamanhos.
 
 
