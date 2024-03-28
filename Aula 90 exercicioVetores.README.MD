@@ -1,27 +1,20 @@
-  # Programa para Manipulação de Dados de Produtos em Java
+# Programa de Identificação de Números Negativos em Java
 
-Este é um conjunto de programas Java simples que lidam com dados de produtos, incluindo nome, preço e quantidade em estoque.
+Este é um programa Java simples que solicita ao usuário que insira um número inteiro várias vezes e identifica os números negativos inseridos.
 
 ## Funcionalidades
 
-### Programa Principal (Main.java):
-
-- Solicita ao usuário que insira os dados do produto.
-- Cria um objeto da classe DadosTv para armazenar os dados do produto.
-- Exibe os dados do produto na tela.
-- Permite ao usuário adicionar ou remover produtos do estoque.
-- Exibe os dados atualizados do produto após as operações de adição e remoção.
-
-### Classe DadosTv (DadosTv.java):
-
-- Define os atributos de um produto: nome, preço e quantidade em estoque.
-- Possui métodos para calcular o valor total do estoque, adicionar produtos e remover produtos.
-- Implementa o método `toString()` para exibir os dados do produto formatados.
+- Solicita ao usuário que digite o número de entradas desejadas.
+- Permite ao usuário inserir números inteiros até o número de entradas especificado.
+- Valida se os números inseridos são menores ou iguais a 10 e solicita ao usuário que insira novamente caso contrário.
+- Identifica e exibe os números negativos inseridos.
 
 ## Principais Tópicos de Aprendizado
 
-- Uso de classes e objetos em Java.
-- Manipulação de dados usando atributos e métodos de objetos.
-- Entrada de dados do usuário e exibição de informações na tela.
-- Utilização de formatação de saída para exibir dados de forma organizada.
+- Uso de laços de repetição (`for` e `do-while`) em Java para iterar sobre uma sequência de entradas.
+- Utilização de estruturas condicionais (`if`) para validação de entrada.
+- Manipulação de arrays em Java para armazenar e processar dados.
+- Entrada de dados do usuário utilizando a classe `Scanner` em Java.
+- Utilização de formatação de saída para exibir os números negativos identificados de forma organizada.
+
 
