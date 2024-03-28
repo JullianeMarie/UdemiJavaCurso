@@ -30,7 +30,6 @@ public class Triangle { /* Classe Triangulo possui 3 atributos */
 
 }
 
-
 package application;
 
 import java.util.Locale;
@@ -73,6 +72,7 @@ public class Program {
 	}
 	
 	sc.close();
+	
 	}
 
 }
