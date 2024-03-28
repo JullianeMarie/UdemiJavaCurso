@@ -1,15 +1,27 @@
-Programa de Leitura de Números Inteiros
-Este é um programa Java simples que solicita ao usuário que insira uma quantidade específica de números inteiros e, em seguida, exibe os números negativos inseridos.
+  # Programa para Manipulação de Dados de Produtos em Java
 
-Funcionalidades:
-Solicita ao usuário que insira a quantidade de números a serem lidos.
-Verifica se os números inseridos são menores ou iguais a 10.
-Armazena os números válidos em um array.
-Exibe os números negativos inseridos pelo usuário.
+Este é um conjunto de programas Java simples que lidam com dados de produtos, incluindo nome, preço e quantidade em estoque.
 
-Principais Tópicos de Aprendizado:
-Declaração e inicialização de arrays em Java.
-Uso de loops for e do-while.
-Entrada de dados do usuário usando a classe Scanner.
-Manipulação de valores em arrays.
-Exibição de resultados na saída padrão.
+## Funcionalidades
+
+### Programa Principal (Main.java):
+
+- Solicita ao usuário que insira os dados do produto.
+- Cria um objeto da classe DadosTv para armazenar os dados do produto.
+- Exibe os dados do produto na tela.
+- Permite ao usuário adicionar ou remover produtos do estoque.
+- Exibe os dados atualizados do produto após as operações de adição e remoção.
+
+### Classe DadosTv (DadosTv.java):
+
+- Define os atributos de um produto: nome, preço e quantidade em estoque.
+- Possui métodos para calcular o valor total do estoque, adicionar produtos e remover produtos.
+- Implementa o método `toString()` para exibir os dados do produto formatados.
+
+## Principais Tópicos de Aprendizado
+
+- Uso de classes e objetos em Java.
+- Manipulação de dados usando atributos e métodos de objetos.
+- Entrada de dados do usuário e exibição de informações na tela.
+- Utilização de formatação de saída para exibir dados de forma organizada.
+
