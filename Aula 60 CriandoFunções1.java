@@ -52,7 +52,6 @@ public class Main { // Abre chaves classe Main //
 
 /*
 tela:
-
  Digite um número! 
 5
 8
