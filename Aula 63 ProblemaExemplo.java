@@ -40,7 +40,6 @@ public class Main {
 
 /*
 TELA
-
  Digite as três medidas do Triângulo X -> 
 3.00
 4.00
@@ -52,7 +51,6 @@ TELA
  Área do Triangulo X = 6.00
  Área do Triangulo Y = 7.56
  Triangulo Y área é maior
-
 
 Exercício sem orientação à objeto!!!!!
 */
