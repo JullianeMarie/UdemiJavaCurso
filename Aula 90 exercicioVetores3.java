@@ -92,7 +92,6 @@ public class Programa {
 
 }
 
-
 /*
 Digite quantas pessoas serão digitadas: 3
 Dados da 1ª pessoa
