@@ -77,7 +77,7 @@ public class Programa {
 			}
 		}
 		double por100Menores16 = (double)contaMenores16 / xPessoas * 100;
-		System.out.printf("Porcentagem menores 16 anos: %.2f", por100Menores16 , "%");
+		System.out.printf("Porcentagem menores 16 anos: %.1f%%", por100Menores16);
 		System.out.println();
 		System.out.println("Nome menores de 16 anos: ");
 		for (int i = 0; i < xPessoas; i++) {
