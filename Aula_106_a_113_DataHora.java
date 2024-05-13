@@ -164,6 +164,11 @@ public class Programa {
 		Duration tempo4 = Duration.between(semanaPassadaInst, data15); //A ordem dos parametros alteram os resultados.
 		System.out.println("Duração Dias: " + tempo4.toDays());
 		
+
+		sc.close();
+	}
+}
+
 /*
 data1: 2024-05-13
 data2: 2024-05-13T16:45:36.272290600
@@ -212,8 +217,3 @@ Duração Dias: 7
 		
 		
 		
-		sc.close();
-	}
-}
-
-
