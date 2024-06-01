@@ -186,7 +186,7 @@ public class Ordem {
 
 	private OrdemStatus status;
 	private Cliente cliente;
-	private List<OrdemItem> itens = new ArrayList<>();
+	private List<OrdemItem> itens = new ArrayList<OrdemItem>();
 
 	public Ordem(Date moment, OrdemStatus status, Cliente cliente) {
 		this.status = status;
@@ -307,10 +307,11 @@ public class Programa {
 			String nomeProduto = sc.nextLine();
 			System.out.print("Preço Produto: ");
 			Double precoProduto = sc.nextDouble();
-
-			Products produto = new Products(nomeProduto, precoProduto);
-
+			System.out.println("Digige a quantidade do produto: ");
 			int quantidade = sc.nextInt();
+			
+			Products produto = new Products(nomeProduto, precoProduto);
+			
 			OrdemItem ordemItem = new OrdemItem(quantidade, precoProduto, produto);
 
 			ordem.addItem(ordemItem);
