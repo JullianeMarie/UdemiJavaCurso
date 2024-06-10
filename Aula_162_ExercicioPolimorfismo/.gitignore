@@ -1,5 +1,5 @@
 /src/entidades/*.java
-src/entidades/Funcionarios.java
-src/entidades/FuncionariosTerceirados.java
+!src/entidades/Funcionarios.java
+!src/entidades/FuncionariosTerceirados.java
 
 
