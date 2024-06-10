@@ -44,11 +44,4 @@ public class Funcionarios {
 	public Double pagamento () {
 		return horas * valorPorHora;
 	}	
-	
-	public String toString() {
-		StringBuilder sb = new StringBuilder();
-		sb.append("Pagamento: \n");
-		sb.append(getNome() +  " - R$ " + pagamento());
-		return sb.toString();
-	}
 }
