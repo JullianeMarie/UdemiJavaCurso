@@ -19,25 +19,19 @@ public class Programa {
 		List<Funcionarios> lista = new ArrayList<>();
 
 		System.out.print("Entrar com número de funcionários: ");
-		//System.out.println();
 		int n = sc.nextInt();
-		
-
 		for (int i = 0; i < n; i++) {
 			
 			System.out.println("Dados funcionário #" + (i + 1) + ":");
 			System.out.print("Terceirizado (s/n)?: ");
 			char funcTer = sc.next().charAt(0);
-			//sc.nextLine();
 			System.out.print("Nome: ");
 			sc.nextLine();
 			String nome = sc.nextLine();
 			System.out.print("Hora: ");
 			Integer hora = sc.nextInt();
-			
 			System.out.print("Valor por hora: ");
 			Double valorPorHora = sc.nextDouble();
-			//sc.nextLine();
 			
 			if (funcTer == 's') {
 				System.out.print("Digite carga adicional: ");
