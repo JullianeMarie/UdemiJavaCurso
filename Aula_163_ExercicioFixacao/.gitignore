@@ -1,0 +1,6 @@
+/src/entidades/*.java
+!src\entidades\Products.java"
+!src\entidades\ProdutoImportado.java"
+!src\entidades\ProdutosUsados.java"
+
+
