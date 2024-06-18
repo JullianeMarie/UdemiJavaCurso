@@ -1,0 +1,7 @@
+/src/entidades/*.java
+!src\entidades\Cores.java"
+!src\entidades\FormaRetangulo.java"
+!src\entidades\Figura.java"
+!src\entidades\FormaCirculo.java"
+
+
