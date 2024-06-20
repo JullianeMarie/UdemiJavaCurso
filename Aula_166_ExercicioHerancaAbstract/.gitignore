@@ -1,0 +1,6 @@
+/src/entidades/*.java
+!src\entidades\Contribuinte.java"
+!src\entidades\PessoaFisica.java"
+!src\entidades\PessoaJuridica.java"
+
+
