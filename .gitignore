@@ -1,4 +1,0 @@
-/src/entidades/*.java
-!/src/entidades/Conta.java
-!/src/entidades/ContaEmpresarial.java
-!/src/entidades/ContaPoupanca.java

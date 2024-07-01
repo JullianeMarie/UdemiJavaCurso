@@ -1,0 +1,9 @@
+/.settings/
+/src/entidades/*.java
+!src/entidades/exceptions/BusinessException.java
+!src/entidades/Conta.java
+
+
+
+
+
